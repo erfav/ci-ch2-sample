@@ -14,6 +14,7 @@
 		<!-- parent pom must be installed in .m2 -->
 		<!-- <relativePath/> -->
 		<!-- 3rd form, NO relative path -->
+		<!-- maven settings.xml -->
 		<!-- resolve maven parent pom from remote repository -->
 	</parent>
 
@@ -22,7 +23,7 @@
 	<!-- GAV Coordinates (por las siglas) -->
 	<groupId>7bb2f3b2-1271-451c-9256-6487fd0b411d</groupId>
 	<artifactId>check-in-papi-app</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 
 	<packaging>mule-application</packaging>
